@@ -1,6 +1,0 @@
-flake8
-black
-typed-argument-parser
-docker
-pyserial
-rich
